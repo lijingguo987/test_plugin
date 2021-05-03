@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8530b6fc-8ba0-4997-aa19-6cdfdc9c40e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../MyApp/MyApp.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApp/MyApp.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApp/MyApp.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApp/MyApp.xcodeproj/project.xcworkspace/xcuserdata/lixiang.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApp/MyApp.xcodeproj/xcuserdata/lixiang.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApp/MyApp/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApp/MyApp/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApp/MyApp/Assets.xcassets/AccentColor.colorset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApp/MyApp/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApp/MyApp/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApp/MyApp/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApp/MyApp/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApp/MyApp/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApp/MyApp/SceneDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApp/MyApp/SceneDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApp/MyApp/ViewController.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApp/MyApp/ViewController.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApp/MyApp/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApp/MyAppTests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApp/MyAppTests/MyAppTests.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApp/MyAppUITests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MyApp/MyAppUITests/MyAppUITests.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_patient_plugin/ios/Classes/HomeController.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_patient_plugin/ios/Classes/HomeController.m" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1rvx1KyFmqRg8UbsOp6epiKwmyQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <option name="show-excluded-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8530b6fc-8ba0-4997-aa19-6cdfdc9c40e1" name="Default Changelist" comment="" />
+      <created>1619870148956</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619870148956</updated>
+    </task>
+    <servers />
+  </component>
+</project>
